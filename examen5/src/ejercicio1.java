@@ -8,6 +8,8 @@ public class ejercicio1 {
         System.out.println("Primir cambio desde el archivo clonado de suman");
         System.out.println("Segunde cambio desde el archivo clonado de angel, cambiando la misma linea que Suman");
 
+        System.out.println("PRUEBA ERROR CONFLICTO GIT MERGE");
+
 
 
         String nombre, apellido1, apellido2, year;
