@@ -5,7 +5,7 @@ public class ejercicio1 {
 
     public static void main(String[] args) {
 
-        System.out.println("Prier cambio desde el aerchivo clonado");
+        System.out.println("Prier cambio desde el archivo clonado");
 
 
         String nombre, apellido1, apellido2, year;
