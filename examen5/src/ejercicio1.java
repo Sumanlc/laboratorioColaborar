@@ -8,6 +8,9 @@ public class ejercicio1 {
         System.out.println("PRUEBA ERROR");
 
         System.out.println("PRUEBA ERROR CONFLICTO GIT MERGE");
+        System.out.println("PRUEBA ERROR CONFLICTO GIT MERGE");
+        System.out.println("PRUEBA ERROR CONFLICTO GIT MERGE");
+        System.out.println("PRUEBA ERROR CONFLICTO GIT MERGE");
 
 
 
