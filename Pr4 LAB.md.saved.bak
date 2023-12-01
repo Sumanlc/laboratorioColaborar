@@ -35,9 +35,10 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
 
 6. A1: Descarga el programa actual y modifica una parte.
 
-
+![](Captura%20de%20pantalla%202023-12-01%20112613.png)
 
 7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto
+
 8. A1 y A2 : Subid los cambios y resolved el conflicto.
 9. A1:Investigad sobre la herramienta "CodeWithMe".  
 10. A2: Investigad sobre la herramienta "GitHubCopilot".
