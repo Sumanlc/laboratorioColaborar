@@ -5,7 +5,7 @@ public class ejercicio1 {
 
     public static void main(String[] args) {
 
-        System.out.println("Prier cambio desde el archivo clonado");
+        System.out.println("Primir cambio desde el archivo clonado de suman");
 
 
         String nombre, apellido1, apellido2, year;
